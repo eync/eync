@@ -1,5 +1,10 @@
 <img src="https://github.com/eync/eync/blob/master/sgithub.png" title="Sanjiv Web Designer">
 
+
+
+
+
+
 <!--
 **eync/eync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#### Wannabe Astronaut 🚀 
+##### Javascript ⚡ 
+
+I am currently working on Javascript and Typescript projects.
 -->
