@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <h4> I'm web developer and designer from Finland. </h4> <br>
+    <h4> I'm web developer and designer from Finland. </h4> 
     ᴥ <a href="https://sanjiv.info/" title="Sanjiv's Homepage"><kbd>Sanjiv.info</kbd></a> ᴥᴥ
      <a href="https://sanjiv.info/projects.html" title="Projects"><kbd>Projects Portfolio</kbd></a> ᴥ
 </div>
