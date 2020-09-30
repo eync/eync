@@ -1,10 +1,10 @@
 
 <img src="https://github.com/eync/eync/blob/master/sgithub.png" title="Sanjiv Web Designer">
-I'm web developer and designer from Finland. 
+#### I'm web developer and designer from Finland. 
 
 <div align="center">
-    <a href="https://sanjiv.info/" title="Sanjiv's Homepage"><kbd>Sanjiv.info</kbd></a> ᴥᴥ
-    <a href="https://sanjiv.info/projects.html" title="Projects"><kbd>Projects Portfolio</kbd></a>
+    ᴥ <a href="https://sanjiv.info/" title="Sanjiv's Homepage"><kbd>Sanjiv.info</kbd></a> ᴥᴥ
+     <a href="https://sanjiv.info/projects.html" title="Projects"><kbd>Projects Portfolio</kbd></a> ᴥ
 </div>
 
 <!--
