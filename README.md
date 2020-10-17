@@ -1,5 +1,5 @@
 
-<img src="https://github.com/eync/eync/blob/master/sgithub.png" title="Sanjiv Web Designer">
+<a href="https://github.com/eync/" title="Github homepage"><img src="https://github.com/eync/eync/blob/master/sgithub2.png" title="Sanjiv Web Designer"></a>
 
 
 <div align="center">
